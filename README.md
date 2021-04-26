@@ -10,7 +10,6 @@ Hi! I'm a first year computer science student studying at NTNU in Norway. I have
 On my page you will find my finished school project and in-progress/finished personal projects. 
 
 If can find me here:
-<p >
-	<a href="https://github.com/hermahs"><img src="imgs/GitHub_Logo.png" alt="GitHub" style="width:75px;margin-right: 15px;"></a>
-	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/LI-Logo.png" alt="LinkedIn" style="width: 75px;"></a>
-</p>
+
+
+[![github]("imgs/GitHub_Logo.png")](https://github.com/hermahs)
