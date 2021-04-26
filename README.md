@@ -11,5 +11,6 @@ On my page you will find my finished school project and in-progress/finished per
 
 If can find me here:
 
+<a href="https://github.com/hermahs"><img src="/hermahs/hermahs/raw/main/imgs/GitHub_Logo.png" alt="github" style="width: 12em;"></a>
 
-[![github](imgs/GitHub_Logo.png)](https://github.com/hermahs)
+<a href="https://www.linkedin.com/in/herman-seternes-902985146/"><img src="/hermahs/hermahs/raw/main/imgs/LI-Logo.png" alt="github" style="width: 12em;"></a>
