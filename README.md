@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @hermahs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Herman Seternes
 
-<!---
-hermahs/hermahs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I'm a first year computer science student studying at NTNU in Norway. I have programmed for about 5 years and have experience in a lot of different languages. The languages that I have the most experience with is:
+
+* Java
+* Javascript
+* Javascript with VUE
+* Python
+
+On my page you will find my finished school project and in-progress/finished personal projects. 
+
+If can find me here:
+<p >
+	<a href="https://github.com/hermahs"><img src="imgs/GitHub_Logo.png" alt="GitHub" style="width:75px;margin-right: 15px;"></a>
+	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/LI-Logo.png" alt="LinkedIn" style="width: 75px;"></a>
+</p>
