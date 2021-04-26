@@ -9,6 +9,6 @@ Hi! I'm a first year computer science student studying at NTNU in Norway. I have
 
 On my page you will find my finished school project and in-progress/finished personal projects. 
 
-If can find me here:
+If you want to contact me, you can find me here:
 
 <a href="https://github.com/hermahs"><img src="imgs/GitHub_Logo.png" alt="github" width="150"></a> <a href="https://www.linkedin.com/in/herman-seternes-902985146/"><img src="imgs/LI-Logo.png" alt="LinkedIn" width="150"></a>
