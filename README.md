@@ -12,4 +12,4 @@ On my page you will find my finished school project and in-progress/finished per
 If can find me here:
 
 
-[![github]("imgs/GitHub_Logo.png")](https://github.com/hermahs)
+[![github](imgs/GitHub_Logo.png | width 70)](https://github.com/hermahs)
