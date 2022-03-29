@@ -3,10 +3,11 @@
 Hi! I'm a second year Computer Science student studying at NTNU in Norway.
 
 These are the different languages and technologies I have experience with:
-* Java and testing of Java with Junit.
-* Typescript, Javascript and different node packages.
-* Python and automation work
-* Docker, github/gitlab pipelines and kubernetes
+* Java :Coffee: and testing java with Junit.
+* Typescript :revolving_hearts: and Javascript.
+* React, Vue, Express and different node frameworks.
+* Python :snake: and automation work with python.
+* Docker :ship:, github/gitlab pipelines and kubernetes
 * HTML, CSS
 
 If you want to contact me, you can find me here:
