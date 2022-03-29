@@ -3,7 +3,7 @@
 Hi! I'm a second year Computer Science student studying at NTNU in Norway.
 
 These are the different languages and technologies I have experience with:
-* Java :Coffee: and testing java with Junit.
+* Java :coffee: and testing java with Junit.
 * Typescript :revolving_hearts: and Javascript.
 * React, Vue, Express and different node frameworks.
 * Python :snake: and automation work with python.
