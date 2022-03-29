@@ -1,13 +1,13 @@
 # Herman Seternes
 
-Hi! I'm a second year Computer Science student studying at NTNU in Norway.
+Hi! :wave: I'm a second year Computer Science student studying at NTNU in Norway.
 
 These are the different languages and technologies I have experience with:
-* Java :coffee: and testing java with Junit.
-* Typescript :revolving_hearts: and Javascript.
+* :coffee: Java and testing java with Junit.
+* :revolving_hearts: Typescript and Javascript.
 * React, Vue, Express and different node frameworks.
-* Python :snake: and automation work with python.
-* Docker :ship:, github/gitlab pipelines and kubernetes
+* :snake: Python and automation work with python.
+* :ship: Docker, github/gitlab pipelines and kubernetes
 * HTML, CSS
 
 If you want to contact me, you can find me here:
